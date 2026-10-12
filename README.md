@@ -7,7 +7,6 @@
 ![VHDL](https://img.shields.io/badge/VHDL-2008-5e35b1?style=for-the-badge)
 ![Quartus](https://img.shields.io/badge/Quartus%20II-13.0%20SP1-0071c5?style=for-the-badge)
 ![FPGA](https://img.shields.io/badge/Cyclone%20II-EP2C20F484C7-00a1e0?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 </div>
 
@@ -161,6 +160,3 @@ Resultados de la compilación incluida (ver [`docs/reports/`](docs/reports)):
 └── .github/        # CI: ejecuta los testbenches en cada push
 ```
 
-## 📄 Licencia
-
-Distribuido bajo licencia MIT. Ver [`LICENSE`](LICENSE).
